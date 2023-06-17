@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.671bb252.css",
-    "main.js": "/static/js/main.364c8b5e.js",
+    "main.js": "/static/js/main.1649991b.js",
     "static/js/787.f5f61965.chunk.js": "/static/js/787.f5f61965.chunk.js",
     "static/media/sanvel.png": "/static/media/sanvel.935f3d02181522568b5c.png",
     "static/media/Screenshot 2023-06-03 184844.png": "/static/media/Screenshot 2023-06-03 184844.cfb2b26721ed6975fbeb.png",
     "static/media/Screenshot 2023-06-14 171410.png": "/static/media/Screenshot 2023-06-14 171410.daa505be709b674c0753.png",
     "static/media/expedia.png": "/static/media/expedia.3127990eb3748cbb4408.png",
+    "static/media/Aslam-Mahetar-Resume.pdf": "/static/media/Aslam-Mahetar-Resume.8890afe7c03752efb1a9.pdf",
     "static/media/dotted.png": "/static/media/dotted.49984a1783be59f882ff.png",
     "static/media/WhatsApp Image 2023-06-02 at 16.33.02.jpg": "/static/media/WhatsApp Image 2023-06-02 at 16.33.02.a66c8b9dddc6519c79ca.jpg",
     "static/media/stats.png": "/static/media/stats.53e97577b292b3717ede.png",
     "index.html": "/index.html",
     "main.671bb252.css.map": "/static/css/main.671bb252.css.map",
-    "main.364c8b5e.js.map": "/static/js/main.364c8b5e.js.map",
+    "main.1649991b.js.map": "/static/js/main.1649991b.js.map",
     "787.f5f61965.chunk.js.map": "/static/js/787.f5f61965.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.671bb252.css",
-    "static/js/main.364c8b5e.js"
+    "static/js/main.1649991b.js"
   ]
 }
